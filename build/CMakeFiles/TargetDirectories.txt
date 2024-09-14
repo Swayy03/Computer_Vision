@@ -1,0 +1,3 @@
+C:/Users/samso/everythingTech/Computer_vision/opencv-vscode/build/CMakeFiles/opencv-vscode.dir
+C:/Users/samso/everythingTech/Computer_vision/opencv-vscode/build/CMakeFiles/edit_cache.dir
+C:/Users/samso/everythingTech/Computer_vision/opencv-vscode/build/CMakeFiles/rebuild_cache.dir

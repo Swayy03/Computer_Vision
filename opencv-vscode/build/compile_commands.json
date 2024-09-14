@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/samso/everythingTech/Computer_vision/opencv-vscode/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x64\\cl.exe  /nologo /TP -external:IC:\\opencv\\build\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\opencv-vscode.dir\\src\\main.cpp.obj /FdCMakeFiles\\opencv-vscode.dir\\ /FS -c C:\\Users\\samso\\everythingTech\\Computer_vision\\opencv-vscode\\src\\main.cpp",
+  "file": "C:\\Users\\samso\\everythingTech\\Computer_vision\\opencv-vscode\\src\\main.cpp",
+  "output": "CMakeFiles\\opencv-vscode.dir\\src\\main.cpp.obj"
+}
+]
